@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My private blog on which I put relevant content that might benefit me in the future. 
 
-### More Information
+Here you can find: 
+* Matter recap from lectures of machine learning, computer science, ...
+* Notes from seminars, talks, ...
+* Review of scientific papers.
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
-
 [email@domain.com](mailto:email@domain.com)

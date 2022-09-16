@@ -6,7 +6,10 @@
 name: AmLib
 
 # Short bio or description (displayed in the header)
-description: Science Geek
+description: Data Geek
+
+# This text will appear in a `<small>` tag in the footer of every page.
+copyright:             © 2022 DataGeek - All rights reserved.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
