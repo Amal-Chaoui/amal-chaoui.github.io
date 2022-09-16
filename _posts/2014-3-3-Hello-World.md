@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to my own library of materials!
 published: true
-categories: welcome cs
+category: welcome
 ---
 
 ## Welcome to my own library of materials!
