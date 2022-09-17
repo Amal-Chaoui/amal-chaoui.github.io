@@ -127,11 +127,11 @@ printf("Address of array x: %p", x);
 
 <ins>**Output**</ins>
 
-> &x[0] = 1450734448
-&x[1] = 1450734452
-&x[2] = 1450734456
-&x[3] = 1450734460
-Address of array x: 1450734448
+>`&x[0] = 1450734448`
+`&x[1] = 1450734452`
+`&x[2] = 1450734456`
+`&x[3] = 1450734460`
+`Address of array x: 1450734448`
 
 There is a difference of 4 bytes between two consecutive elements of array `x`, because the size of `int` is 4 bytes.
 
