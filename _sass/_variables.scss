@@ -3,6 +3,8 @@
 // VARIABLES
 //
 
+@import url('http://fonts.cdnfonts.com/css/baskerville');
+
 // Colors
 $blue: #4183C4;
 
@@ -18,6 +20,7 @@ $white: #fff;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$baskerville: Baskerville, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
