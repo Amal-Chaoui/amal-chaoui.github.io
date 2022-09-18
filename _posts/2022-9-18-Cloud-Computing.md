@@ -10,6 +10,8 @@ You might have a splendid idea of developing a web/mobile aplication that you th
 The cheapest and efficient way for you and probably most of small or even big companies is to rent third-party servers and be charged depending on the duration of usage. This solution is know as __cloud computing__. 
 
 ### What is cloud computing? 
+<img src="https://assets.intersystems.com/dims4/default/12febb9/2147483647/strip/true/crop/780x422+0+0/resize/1560x844!/format/webp/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2F26%2Fbd%2F6a6aa762425f87ad7d5c2fe65f8c%2Fawslogo-image.jpg" alt="drawing" width="200"/>
+
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. 
 
 ### Cloud computing models
