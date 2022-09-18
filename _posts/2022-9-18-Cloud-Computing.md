@@ -10,7 +10,7 @@ You might have a splendid idea of developing a web/mobile aplication that you th
 The cheapest and efficient way for you and probably most of small or even big companies is to rent third-party servers and be charged depending on the duration of usage. This solution is know as __cloud computing__. 
 
 ### What is cloud computing? 
-<img src="https://assets.intersystems.com/dims4/default/12febb9/2147483647/strip/true/crop/780x422+0+0/resize/1560x844!/format/webp/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2F26%2Fbd%2F6a6aa762425f87ad7d5c2fe65f8c%2Fawslogo-image.jpg" alt="drawing" width="400"/>
+<img src="https://assets.intersystems.com/dims4/default/12febb9/2147483647/strip/true/crop/780x422+0+0/resize/1560x844!/format/webp/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2F26%2Fbd%2F6a6aa762425f87ad7d5c2fe65f8c%2Fawslogo-image.jpg" alt="aws"/>
 
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. 
 
@@ -20,8 +20,10 @@ There are different models of cloud computing that pertain to the infrascture en
 ##### Deployment models 
 
 
-
 These models pertain to where the infrastructure environment is located. There are mainly 3 types:
+
+<img src="https://images.prismic.io/superpupertest/b6d7eacb-98bd-4bed-b811-603ee89daef7_Frame+1978.jpg?auto=compress,format" alt="depModels"/>
+
 
 __Public Cloud__: It refers to computing services offered by third-party providers over the public internet, making them available to anyone who wants to use or purchase them (e.g.: Azure, AWS, ...).
 
@@ -38,6 +40,8 @@ This can be the example of a private research company whose marketing applicatio
 ##### Cloud service models 
 
 These are models relate to the general architecture provided to users. We can distinguish between 3 types:
+<img src="https://www.stackscale.com/wp-content/uploads/2020/04/cloud-service-models-iaas-paas-saas-stackscale.jpg
+" alt="servModels"/>
 
 __Infrastructure as a service (IaaS)__: refers to providing complete access to the server's OS. Typically, IaaS provides hardware, storage, servers and data center space. However, it is up to the user to get their own solution (e.g. application) up and running on the cloud (by making the necessary installements, uploading website files, ...). 
 

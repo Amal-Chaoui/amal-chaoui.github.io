@@ -7,11 +7,11 @@ category: cs
 
 In this post, we will learn about pointers C. 
 
-### What is a pointer?
+## I. What is a pointer?
 If you have a variable `var` in your program, `&var` will give you its address in the memory.
 __Pointers__ are special variables that are used to store addresses rather than values.
 
-----------
+
 ### Pointer Syntax
 Here is how we can declare pointers.
 ```c
@@ -27,7 +27,7 @@ Another example,
 int* pc, c;     //pc is a pointer, c is an integer
 ```
 
-----------
+
 ### Assigning addresses to Pointers
 
 Let's take an example.
@@ -41,7 +41,7 @@ printf(pc);    // will print the address of c
 
 Here, 5 is assigned to the  c  variable. And, the address of  c  is assigned to the  pc  pointer.
 
-----------
+
 ### Get Value of Thing Pointed by Pointers
 
 To get the value of the thing pointed by the pointers, we use the  `*`  operator.
@@ -54,7 +54,7 @@ printf("%d", *pc);   // Output: 5
 Here, the address of  `c`  is assigned to the  pc  pointer. To get the value stored in that address, we used  `*pc`.
 
 
-----------
+
 ### Changing Value Pointed by Pointers
 
 Let's take an example.
@@ -104,7 +104,7 @@ int* p = &c;
 ```
 Note that, in `int *p`, the `*` is used to define the pointer, not to refer to its value. 
 
-----------
+
 ### Why to use pointers?
 
 1.  Pointers save memory space.
@@ -179,7 +179,7 @@ Sometimes the size of the array you declared may be insufficient. To solve this 
 
 For this, we use functions defined in the `<stdlib.h>` header file.
 
--------
+
 ### `malloc()` function 
 The `malloc()` function reserves a block of memory of the specified number of bytes. And, it returns a pointer of `void` which can be casted into pointers of any form.
 
@@ -198,7 +198,7 @@ The above statement allocates 400 bytes of memory. It's because the size of  `fl
 
 The expression results in a  `NULL`  pointer if the memory cannot be allocated.
 
---------
+
 ### `calloc()` function 
 The name "calloc" stands for contiguous allocation.
 
@@ -218,7 +218,7 @@ ptr = (float*) calloc(20, sizeof(float));
 
 The above statement allocates contiguous space in memory for 25 elements of type `float`.
 
-------
+
 ### `free()` function 
 
 Dynamically allocated memory created with either  `calloc()`  or  `malloc()`  doesn't get freed on their own. You must explicitly use  `free()`  to release the space.
@@ -260,7 +260,7 @@ printf("Sum = %d", sum);
 free(ptr);
 ```
 
-------
+
 ### `realloc()` function 
 
 If the dynamically allocated memory is insufficient or more than required, you can change the size of previously allocated memory using the  `realloc()`  function.
