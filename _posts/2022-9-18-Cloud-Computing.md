@@ -5,8 +5,6 @@ published: true
 category: cs 
 ---
 
-![](https://assets.intersystems.com/dims4/default/12febb9/2147483647/strip/true/crop/780x422+0+0/resize/1560x844!/format/webp/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2F26%2Fbd%2F6a6aa762425f87ad7d5c2fe65f8c%2Fawslogo-image.jpg)
-
 You might have a splendid idea of developing a web/mobile aplication that you think will be a hit for the next decade. Thus you will need to think of deploying it on servers with enough resources to be able manage the load of people turning in. However, buying servers on your own might cost you an arm and a leg,  and you probably won't use all the resources day and night. Plus you will likely be in need of hiring people that will be in charge of maintaining the servers in a good shape in times of influx uptick.  
 
 The cheapest and efficient way for you and probably most of small or even big companies is to rent third-party servers and be charged depending on the duration of usage. This solution is know as __cloud computing__. 
@@ -19,7 +17,7 @@ There are different models of cloud computing that pertain to the infrascture en
 
 ##### Deployment models 
 
-![](https://images.prismic.io/superpupertest/b6d7eacb-98bd-4bed-b811-603ee89daef7_Frame+1978.jpg?auto=compress,format)
+
 
 These models pertain to where the infrastructure environment is located. There are mainly 3 types:
 
@@ -36,7 +34,7 @@ __Hybrid Cloud__: A cloud computing environment that uses a mix of on-premises, 
 This can be the example of a private research company whose marketing application through which anyone can sign up/in can be hosted on a public cloud, however all the research matters (which are likely sensitive) are hosted on a separate private cloud. 
 
 ##### Cloud service models 
-![](https://www.stackscale.com/wp-content/uploads/2020/04/cloud-service-models-iaas-paas-saas-stackscale.jpg)
+
 These are models relate to the general architecture provided to users. We can distinguish between 3 types:
 
 __Infrastructure as a service (IaaS)__: refers to providing complete access to the server's OS. Typically, IaaS provides hardware, storage, servers and data center space. However, it is up to the user to get their own solution (e.g. application) up and running on the cloud (by making the necessary installements, uploading website files, ...). 
